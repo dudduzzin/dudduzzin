@@ -1,4 +1,4 @@
 ### Olá, eu sou Eduardo Nogueira!  👋
-- Entusiasta de programação
+- CEO & CTO @DDzign, loja focada em conteúdo relacionado à (FiveM)[fivem.com]
 - JavaScript (Node.js)
 - Apenas como hobbie
