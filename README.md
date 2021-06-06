@@ -12,8 +12,9 @@ Eduardo Nogueira, natural de Fortaleza, Ceará, 15 anos. Aproximadamente 1 ano e
 [![Twitter Badge](https://img.shields.io/badge/-@duduu.nog-000?style=flat-square&labelColor=000&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://instagram.com/duduu.nog) 
 [![Linkedin Badge](https://img.shields.io/badge/-@dudu__nog-000?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/dudu__nog)](https://www.twitter.com/dudu__nog) 
 
+# 📈 | GitHub Stats
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/dudduzzin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
 </div>
