@@ -1,3 +1,4 @@
+
 # 👋 | Olá, visitante!
 ### Meu nome é Eduardo Nogueira.
 - Sou um entusiasta da programação.
@@ -5,7 +6,7 @@
 - Atualmente focado em desenvolvimento de Discord Bot's.
 
 # 👀 | Sobre Mim
-Meu nome é Eduardo Nogueira, tenho 15 anos de idade e aproximadamente 1 ano e meio de experiência em developing. Trato a programação como um hobbie, algo que me diverte no dia-a-dia. Antes de começar a desenvolver BOT's em [JavaScript](https://javascript.com), treinei durante algum tempo minha experiência em [LUA](https://lua.org), enquanto programava servidores de [FiveM](https://fivem.net).
+Eduardo Nogueira, natural de Fortaleza, Ceará, 15 anos. Aproximadamente 1 ano e meio de experiência programando. Trato a programação apenas como um hobby, algo que me diverte no dia-a-dia. Antes de desenvolver BOT's para Discord em [JavaScript](https://javascript.com), passei algum tempo desenvolvendo em [LUA](https://lua.org), enquanto programava para servidores de [FiveM](https://fivem.net).
 
 # 🌎 | Minhas Redes
 [![Twitter Badge](https://img.shields.io/badge/-@duduu.nog-000?style=flat-square&labelColor=000&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://instagram.com/duduu.nog) 
