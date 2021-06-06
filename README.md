@@ -16,5 +16,4 @@ Eduardo Nogueira, natural de Fortaleza, Ceará, 15 anos. Aproximadamente 1 ano e
 <div>
   <a href="https://github.com/dudduzzin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudduzzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudduzzin&layout=compact&langs_count=16&theme=dracula"/>
 </div>
